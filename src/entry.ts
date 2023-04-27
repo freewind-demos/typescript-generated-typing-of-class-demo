@@ -1,6 +1,7 @@
-import $ from 'jquery'
-import './index.css';
+class User {
+    constructor(public username: string) {
+    }
+}
 
-$('#main').text('Hello, webpack!');
-
-console.trace('Hello')
+const user = new User("Freewind");
+console.log(user.username);

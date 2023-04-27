@@ -1,4 +1,4 @@
-TypeScript Webpack Demo
+TypeScript Generated Typing of Class Demo
 =======================================
 
 ```
